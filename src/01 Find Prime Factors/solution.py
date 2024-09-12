@@ -13,4 +13,4 @@ def get_prime_factors(num):
       devisor += 1
   return(returnPrimes)
 
-print(get_prime_factors(630))
+print(get_prime_factors(1300))
